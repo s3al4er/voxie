@@ -8,3 +8,4 @@
 ```
 pip install PyAudio SpeechRecognition pyttsx3 PyQt6 g4f
 ```
+Запуск через файл voxie.py.
